@@ -1,2 +1,4 @@
-# High-pass-and-Lowpass-Operation-on-Image
+# HP & LP Filter, Watermaking,Edge Detection
 An image is first converted into grey scale from RGB. Then using a Gaussian filter, low pass and high pass filtered image is synthesized and visualized. High pass response is just the complementary of low pass response as shown in the screenshot. MATLAB inbuilt fft function is used for spectral extraction.
+"Watermarking" is the process of hiding digital information in a carrier signal; the hidden information should, but does not need to, contain a relation to the carrier signal. Digital watermarks may be used to verify the authenticity or integrity of the carrier signal or to show the identity of its owners.
+Edge detection is an image processing technique for finding the boundaries of objects within images. It works by detecting discontinuities in brightness. Edge detection is used for image segmentation and data extraction in areas such as image processing, computer vision, and machine vision.
